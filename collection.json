@@ -1,7 +1,7 @@
 {
   "name": "Swipeys TESTNET",
   "description": "Fake-media test deployment for Swipeys contract verification. Not the real collection.",
-  "image": "https://raw.githubusercontent.com/uncmatteth/swipeys-testnet-fixture/main/assets/swipeys-testnet-placeholder.jpg",
+  "image": "https://uncmatteth.github.io/swipeys-testnet-fixture/assets/swipeys-testnet-placeholder.jpg",
   "external_link": "https://www.swipebot.fun/collect",
   "testnet_only": true
 }
